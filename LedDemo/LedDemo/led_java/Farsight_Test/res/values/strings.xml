@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="led">LED灯控制实验：</string>
+  
+    <string name="Btn0">LED1</string>
+    
+</resources>
